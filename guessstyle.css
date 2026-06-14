@@ -1,0 +1,25 @@
+body{
+    background-color: #212121;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#wrapper{
+    margin-top: 50px;
+}
+
+#guessField{
+    padding: 10px;
+    font-size: 18px;
+}
+
+#subt{
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.resultParas{
+    margin-top: 20px;
+}
